@@ -2,11 +2,11 @@
 
 Guillaume Lemaitre - Fabrice Meriaudeau
 
-## Lecture 3 - Image Enhancement continued
+## Lecture 7 - Morphological Image Processing
 
 ### Abstract
 
-This lecture tackles image enhacement using the frequency domain.
+This lecture gives an overview about morphological image processing.
 
 ### Execution of the ipython notebook
 
